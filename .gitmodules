@@ -1,0 +1,78 @@
+[submodule "Catalogs-MSDOS-TurboPascal"]
+	path = Catalogs-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Catalogs-MSDOS-TurboPascal.git
+[submodule "Cree-Doc-MSDOS-TurboPascal"]
+	path = Cree-Doc-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Cree-Doc-MSDOS-TurboPascal.git
+[submodule "I18N-Messages-Files-Maker-MSDOS-TurboPascal"]
+	path = I18N-Messages-Files-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/I18N-Messages-Files-Maker-MSDOS-TurboPascal.git
+[submodule "FD-Util-MSDOS-TurboPascal"]
+	path = FD-Util-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/FD-Util-MSDOS-TurboPascal.git
+[submodule "Cobol-Files-Linker-MSDOS-TurboPascal"]
+	path = Cobol-Files-Linker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Cobol-Files-Linker-MSDOS-TurboPascal.git
+[submodule "Cobol-Editor-MSDOS-TurboPascal"]
+	path = Cobol-Editor-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Cobol-Editor-MSDOS-TurboPascal.git
+[submodule "Listeur-MSDOS-TurboPascal"]
+	path = Listeur-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Listeur-MSDOS-TurboPascal.git
+[submodule "IDF-DB-Manager-MSDOS-TurboPascal"]
+	path = IDF-DB-Manager-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/IDF-DB-Manager-MSDOS-TurboPascal.git
+[submodule "HyperText-Maker-MSDOS-TurboPascal"]
+	path = HyperText-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/HyperText-Maker-MSDOS-TurboPascal.git
+[submodule "Font-Maker-MSDOS-TurboPascal"]
+	path = Font-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Font-Maker-MSDOS-TurboPascal.git
+[submodule "Color-PAL-Maker-MSDOS-TurboPascal"]
+	path = Color-PAL-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Color-PAL-Maker-MSDOS-TurboPascal.git
+[submodule "Show-Files-Compilation-MSDOS-TurboPascal"]
+	path = Show-Files-Compilation-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Show-Files-Compilation-MSDOS-TurboPascal.git
+[submodule "Batch-Menu-Maker-MSDOS-TurboPascal"]
+	path = Batch-Menu-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Batch-Menu-Maker-MSDOS-TurboPascal.git
+[submodule "Text-Reader-MSDOS-TurboPascal"]
+	path = Text-Reader-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Text-Reader-MSDOS-TurboPascal.git
+[submodule "Code-Formaters-MSDOS-TurboPascal"]
+	path = Code-Formaters-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Code-Formaters-MSDOS-TurboPascal.git
+[submodule "Sprite-Maker-MSDOS-TurboPascal"]
+	path = Sprite-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Sprite-Maker-MSDOS-TurboPascal.git
+[submodule "Icon-Maker-MSDOS-TurboPascal"]
+	path = Icon-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Icon-Maker-MSDOS-TurboPascal.git
+[submodule "Images-Slider-MSDOS-TurboPascal"]
+	path = Images-Slider-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Images-Slider-MSDOS-TurboPascal.git
+[submodule "OSBanque-MSDOS-TurboPascal"]
+	path = OSBanque-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/OSBanque-MSDOS-TurboPascal.git
+[submodule "Cobol-Lines-Numerator-MSDOS-TurboPascal"]
+	path = Cobol-Lines-Numerator-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Cobol-Lines-Numerator-MSDOS-TurboPascal.git
+[submodule "Pascal-Files-Linker-MSDOS-TurboPascal"]
+	path = Pascal-Files-Linker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Pascal-Files-Linker-MSDOS-TurboPascal.git
+[submodule "UPR-Files-Maker-MSDOS-TurboPascal"]
+	path = UPR-Files-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/UPR-Files-Maker-MSDOS-TurboPascal.git
+[submodule "Batch-Users-Access-MSDOS-TurboPascal"]
+	path = Batch-Users-Access-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Batch-Users-Access-MSDOS-TurboPascal.git
+[submodule "CD-Player-MSDOS-TurboPascal"]
+	path = CD-Player-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/CD-Player-MSDOS-TurboPascal.git
+[submodule "Mouse-Cursor-Maker-MSDOS-TurboPascal"]
+	path = Mouse-Cursor-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Mouse-Cursor-Maker-MSDOS-TurboPascal.git
+[submodule "Deltree-MSDOS-TurboPascal"]
+	path = Deltree-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Deltree-MSDOS-TurboPascal.git
